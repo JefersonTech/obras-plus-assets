@@ -1,9 +1,9 @@
 {
   "id": 1,
-  "text": "https://github.com/JefersonTech/hc-assets/blob/main/company/text-dev.json?raw=true",
+  "text": "https://github.com/JefersonTech/obras-plus-assets/blob/main/company/text-dev.json?raw=true",
   "assets": {
-    "appbar": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/appbar.png?raw=true",
-    "blank": "https://github.com/JefersonTech/hc-assets/blob/main/company/assets/blank.png?raw=true"
+    "appbar": "https://github.com/JefersonTech/obras-plus-assets/blob/main/company/assets/appbar.png?raw=true",
+    "blank": "https://github.com/JefersonTech/obras-plus-assets/blob/main/company/assets/blank.png?raw=true"
   },
   "colors": {
     "primary": "#0038AE",
