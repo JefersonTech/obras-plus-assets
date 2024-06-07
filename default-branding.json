@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "text": "https://github.com/JefersonTech/hc-assets/blob/main/default/text.json?raw=true",
+  "assets": {
+    "artBoardCoco": "https://github.com/JefersonTech/hc-assets/blob/main/default/assets/ArtBoardCoco.png?raw=true"
+  },
+  "colors": {
+    "primary": "#0038AE",
+    "secondary": "#ffffff"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "en-US": {
+    "drawer": {
+      "home": "Inicio"
+    },
+    "general": {
+      "date": "d/MM/y hh:mmaaa",
+      "shortDate": "d/MM/y",
+      "normalDate": "d 'de' MMMM",
+      "shortHour": "hh:mmaaa",
+      "hourNoneIndicators": "KK:mm",
+      "notFoundModule": "No se encontró el módulo {{-moduleName}}",
+      "btnConfirmSignOut": "Sí, cerrar",
+      "btnCancelSignOut": "No, regresar",
+      "textSignOut": "¿Seguro que quieres cerrar sesión?",
+      "loggoutButton": "Cerrar Sesión",
+      "searchPlaceholder": "Buscar",
+      "headerReturn": "Regresar",
+      "errors": {
+        "CHK02": "El registro ya existe para el período de trabajo."
+      },
+      "closeSnackbar": "Cerrar"
+    }
+  }
+}
