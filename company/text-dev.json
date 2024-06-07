@@ -20,6 +20,9 @@
         "CHK02": "El registro ya existe para el período de trabajo."
       },
       "closeSnackbar": "Cerrar"
+    },
+    "work_detail":{
+      "dayly_progress":"Avance diario"
     }
   }
 }
