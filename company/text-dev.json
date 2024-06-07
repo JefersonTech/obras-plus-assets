@@ -4,8 +4,8 @@
       "home": "Inicio"
     },
     "general": {
-      "date": "d/MM/y hh:mmaaa",
-      "shortDate": "d/MM/y",
+      "date": "dd/MM/y hh:mmaaa",
+      "shortDate": "dd/MM/y",
       "normalDate": "d 'de' MMMM",
       "shortHour": "hh:mmaaa",
       "hourNoneIndicators": "KK:mm",
