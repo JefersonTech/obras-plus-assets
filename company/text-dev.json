@@ -19,7 +19,13 @@
       "errors": {
         "CHK02": "El registro ya existe para el período de trabajo."
       },
-      "closeSnackbar": "Cerrar"
+      "closeSnackbar": "Cerrar",
+      "remove_evidence_confirmation": {
+        "title": "¿Seguro quieres  eliminar esta evidencia?",
+        "text": "Esto no se puede deshacer.",
+        "btnConfirmSignOut": "Sí, cerrar",
+        "btnCancelSignOut": "No, regresar"
+      }
     },
     "work_detail": {
       "dayly_progress": "Avance diario"
