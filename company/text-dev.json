@@ -21,8 +21,12 @@
       },
       "closeSnackbar": "Cerrar"
     },
-    "work_detail":{
-      "dayly_progress":"Avance diario"
+    "work_detail": {
+      "dayly_progress": "Avance diario"
+    },
+    "progress": {
+      "dayly_progress": "Avance diario",
+      "progress_author": "Por {{-author}} - {{-date}}"
     }
   }
 }
