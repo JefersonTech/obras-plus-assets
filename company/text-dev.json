@@ -23,8 +23,8 @@
       "remove_evidence_confirmation": {
         "title": "¿Seguro quieres  eliminar esta evidencia?",
         "text": "Esto no se puede deshacer.",
-        "btnConfirmSignOut": "Sí, cerrar",
-        "btnCancelSignOut": "No, regresar"
+        "confirm": "Sí, cerrar",
+        "cancel": "No, regresar"
       }
     },
     "work_detail": {
