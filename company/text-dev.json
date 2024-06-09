@@ -23,7 +23,7 @@
       "remove_evidence_confirmation": {
         "title": "¿Seguro quieres  eliminar esta evidencia?",
         "text": "Esto no se puede deshacer.",
-        "confirm": "Sí, cerrar",
+        "confirm": "Sí, confirmar",
         "cancel": "No, regresar"
       }
     },
@@ -32,7 +32,13 @@
     },
     "progress": {
       "dayly_progress": "Avance diario",
-      "progress_author": "Por {{-author}} - {{-date}}"
+      "progress_author": "Por {{-author}} - {{-date}}",
+      "registered_progress": "Avances registrados",
+      "add_progress": "AGREGAR AVANCE",
+      "select_tags": "Seleccione tipo/etiquetas",
+      "attachments": "Evidencias adjuntas",
+      "add_progress_title": "AGREGAR AVANCE",
+      "submit_progress": "FINALIZAR"
     }
   }
 }
