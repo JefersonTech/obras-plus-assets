@@ -27,7 +27,8 @@
         "cancel": "No, regresar"
       },
       "textRequiredValidate": "Este campo es requerido",
-      "maxLength": "Este campo no puede exceder los {{count}} caracteres "
+      "maxLength": "Este campo no puede exceder los {{count}} caracteres",
+      "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos"
     },
     "work_detail": {
       "dayly_progress": "Avance diario"
