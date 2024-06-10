@@ -26,7 +26,8 @@
         "confirm": "Sí, confirmar",
         "cancel": "No, regresar"
       },
-      "textRequiredValidate": "Este campo es requerido"
+      "textRequiredValidate": "Este campo es requerido",
+      "maxLength": "Este campo no puede exceder los {{count}} caracteres "
     },
     "work_detail": {
       "dayly_progress": "Avance diario"
@@ -45,7 +46,9 @@
         "text": "Esto no se puede deshacer.",
         "confirm": "Sí, confirmar",
         "cancel": "No, regresar"
-      }
+      },
+      "descriptionInput": "Descripción del avance diario",
+      "descriptionInputPlaceholder": "Indique los comentarios correspondientes al avance diario"
     }
   }
 }
