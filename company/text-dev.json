@@ -28,7 +28,13 @@
       },
       "textRequiredValidate": "Este campo es requerido",
       "maxLength": "Este campo no puede exceder los {{count}} caracteres",
-      "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos"
+      "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos",
+      "snack_action": "Cerrar",
+      "evidence_action_sheet": {
+        "cancel": "Cancelar",
+        "photo": "Foto",
+        "video": "Video"
+      }
     },
     "work_detail": {
       "dayly_progress": "Avance diario"
@@ -49,7 +55,8 @@
         "cancel": "No, regresar"
       },
       "descriptionInput": "Descripción del avance diario",
-      "descriptionInputPlaceholder": "Indique los comentarios correspondientes al avance diario"
+      "descriptionInputPlaceholder": "Indique los comentarios correspondientes al avance diario",
+      "search_tags": "Buscar etiquetas"
     }
   }
 }
