@@ -21,7 +21,7 @@
       },
       "closeSnackbar": "Cerrar",
       "remove_evidence_confirmation": {
-        "title": "¿Seguro quieres  eliminar esta evidencia?",
+        "title": "¿Seguro quieres eliminar esta evidencia?",
         "text": "Esto no se puede deshacer.",
         "confirm": "Sí, confirmar",
         "cancel": "No, regresar"
@@ -38,7 +38,13 @@
       "select_tags": "Seleccione tipo/etiquetas",
       "attachments": "Evidencias adjuntas",
       "add_progress_title": "AGREGAR AVANCE",
-      "submit_progress": "FINALIZAR"
+      "submit_progress": "FINALIZAR",
+      "discard_confirmation": {
+        "title": "¿Seguro quieres descartar estos cambios?",
+        "text": "Esto no se puede deshacer.",
+        "confirm": "Sí, confirmar",
+        "cancel": "No, regresar"
+      }
     }
   }
 }
