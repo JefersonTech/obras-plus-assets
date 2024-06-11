@@ -56,7 +56,8 @@
       },
       "descriptionInput": "Descripción del avance diario",
       "descriptionInputPlaceholder": "Indique los comentarios correspondientes al avance diario",
-      "search_tags": "Buscar etiquetas"
+      "search_tags": "Buscar etiquetas",
+      "created_seccesfully": "Avance creado con éxito"
     }
   }
 }
