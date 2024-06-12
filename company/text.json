@@ -4,8 +4,8 @@
       "home": "Inicio"
     },
     "general": {
-      "date": "d/MM/y hh:mmaaa",
-      "shortDate": "d/MM/y",
+      "date": "dd/MM/y hh:mmaaa",
+      "shortDate": "dd/MM/y",
       "normalDate": "d 'de' MMMM",
       "shortHour": "hh:mmaaa",
       "hourNoneIndicators": "KK:mm",
@@ -19,7 +19,47 @@
       "errors": {
         "CHK02": "El registro ya existe para el período de trabajo."
       },
-      "closeSnackbar": "Cerrar"
+      "closeSnackbar": "Cerrar",
+      "remove_evidence_confirmation": {
+        "title": "¿Seguro quieres eliminar esta evidencia?",
+        "text": "Esto no se puede deshacer.",
+        "confirm": "Sí, confirmar",
+        "cancel": "No, regresar"
+      },
+      "textRequiredValidate": "Este campo es requerido",
+      "maxLength": "Este campo no puede exceder los {{count}} caracteres",
+      "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos",
+      "snack_action": "Cerrar",
+      "evidence_action_sheet": {
+        "cancel": "Cancelar",
+        "photo": "Foto",
+        "video": "Video"
+      },
+      "notTextInInput": "Este campo no debe empezar ni terminar con espacios en blanco"
+    },
+    "work_detail": {
+      "dayly_progress": "Avance diario"
+    },
+    "progress": {
+      "dayly_progress": "Avance diario",
+      "progress_author": "Por {{-author}} - {{-date}}",
+      "registered_progress": "Avances registrados",
+      "add_progress": "AGREGAR AVANCE",
+      "select_tags": "Seleccione tipo/etiquetas",
+      "attachments": "Evidencias adjuntas",
+      "add_progress_title": "AGREGAR AVANCE",
+      "submit_progress": "FINALIZAR",
+      "discard_confirmation": {
+        "title": "¿Seguro quieres descartar estos cambios?",
+        "text": "Esto no se puede deshacer.",
+        "confirm": "Sí, confirmar",
+        "cancel": "No, regresar"
+      },
+      "descriptionInput": "Descripción del avance diario",
+      "descriptionInputPlaceholder": "Indique los comentarios correspondientes al avance diario",
+      "search_tags": "Buscar etiquetas",
+      "created_seccesfully": "Avance creado con éxito",
+      "finished_seccesfully": "Avance finalizado con éxito"
     }
   }
 }
