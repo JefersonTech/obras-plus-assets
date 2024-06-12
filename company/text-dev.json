@@ -34,7 +34,8 @@
         "cancel": "Cancelar",
         "photo": "Foto",
         "video": "Video"
-      }
+      },
+      "notTextInInput": "Este campo no debe empezar ni terminar con espacios en blanco"
     },
     "work_detail": {
       "dayly_progress": "Avance diario"
