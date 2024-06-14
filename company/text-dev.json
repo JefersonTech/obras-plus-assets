@@ -60,6 +60,9 @@
       "search_tags": "Buscar etiquetas",
       "created_seccesfully": "Avance creado con éxito",
       "finished_seccesfully": "Avance finalizado con éxito"
+    },
+    "complete_employee_profiles": {
+      "pending_employee_profiles": "PERFILES DE TRABAJADORES\n<strong>PENDIENTES</strong>"
     }
   }
 }
