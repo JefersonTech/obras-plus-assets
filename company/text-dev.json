@@ -79,17 +79,17 @@
     },
     "complete_profile_worker": {
       "employee_detail": "DETALLE DEL TRABAJADOR",
-      "worker_has_rfc": "¿El trabajador que deseas agregar cuenta con RFC?"
-      "full_name": "Nombre completo"
-      "email": "Correo electrónico"
+      "worker_has_rfc": "¿El trabajador que deseas agregar cuenta con RFC?",
+      "full_name": "Nombre completo",
+      "email": "Correo electrónico",
       "nss": "NSS",
       "curp": "CURP",
-      "alias": "Alias"
+      "alias": "Alias",
       "rfc": "RFC",
-      "assigned_position": "Puesto asignado"
+      "assigned_position": "Puesto asignado",
       "save": "GUARDAR",
       "yes": "SÍ",
       "no": "NO"
-    },
+    }
   }
 }
