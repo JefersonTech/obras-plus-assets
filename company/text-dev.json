@@ -29,6 +29,7 @@
       },
       "textRequiredValidate": "Este campo es requerido",
       "maxLength": "Este campo no puede exceder los {{count}} caracteres",
+      "minLength": "Este campo no puede tener menos de {{count}} caracteres",
       "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos",
       "snack_action": "Cerrar",
       "evidence_action_sheet": {
