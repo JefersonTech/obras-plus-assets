@@ -17,7 +17,8 @@
       "searchPlaceholder": "Buscar",
       "headerReturn": "Regresar",
       "errors": {
-        "CHK02": "El registro ya existe para el período de trabajo."
+        "CHK02": "El registro ya existe para el período de trabajo.",
+        "ERR_BAD_RESPONSE": "Servicio no disponible"
       },
       "closeSnackbar": "Cerrar",
       "remove_evidence_confirmation": {
@@ -38,7 +39,18 @@
       "notTextInInput": "Este campo no debe empezar ni terminar con espacios en blanco"
     },
     "work_detail": {
-      "dayly_progress": "Avance diario"
+      "dayly_progress": "Avance diario",
+      "attendance_list": "Lista de asistencia",
+      "pending_tasks": "Tareas pendientes",
+      "pending_tasks_screen_title": "TAREAS Y PENDIENTES\n<strong>{{-date}}</strong>",
+      "today_tasks": "Tareas pendientes para hoy",
+      "completed_tasks": "Tareas completadas",
+      "my_lists": "Mis listas",
+      "new_list": "Nueva lista",
+      "list_created_successfully": "Lista creada con éxito",
+      "create_list_button": "OK",
+      "create_list_name_label": "Nombre de la lista",
+      "task_list_title": "{{-name}}\n<strong>Lista de Tareas<strong>"
     },
     "progress": {
       "dayly_progress": "Avance diario",
@@ -60,6 +72,9 @@
       "search_tags": "Buscar etiquetas",
       "created_seccesfully": "Avance creado con éxito",
       "finished_seccesfully": "Avance finalizado con éxito"
+    },
+    "complete_employee_profiles": {
+      "pending_employee_profiles": "PERFILES DE TRABAJADORES\n<strong>PENDIENTES</strong>"
     }
   }
 }
