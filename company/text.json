@@ -29,6 +29,7 @@
       },
       "textRequiredValidate": "Este campo es requerido",
       "maxLength": "Este campo no puede exceder los {{count}} caracteres",
+      "minLength": "Este campo no puede tener menos de {{count}} caracteres",
       "someFileIsUploadingYet": "Las evidencias adjuntas no se han terminado de guardar, por favor espera unos segundos",
       "snack_action": "Cerrar",
       "evidence_action_sheet": {
@@ -36,7 +37,8 @@
         "photo": "Foto",
         "video": "Video"
       },
-      "notTextInInput": "Este campo no debe empezar ni terminar con espacios en blanco"
+      "notTextInInput": "Este campo no debe empezar ni terminar con espacios en blanco",
+      "invalidEmailFormat": "Formato de correo electrónico no válido"
     },
     "work_detail": {
       "dayly_progress": "Avance diario",
@@ -75,6 +77,20 @@
     },
     "complete_employee_profiles": {
       "pending_employee_profiles": "PERFILES DE TRABAJADORES\n<strong>PENDIENTES</strong>"
+    },
+    "complete_profile_worker": {
+      "employee_detail": "DETALLE DEL TRABAJADOR",
+      "worker_has_rfc": "¿El trabajador que deseas agregar cuenta con RFC?",
+      "full_name": "Nombre completo",
+      "email": "Correo electrónico",
+      "nss": "NSS",
+      "curp": "CURP",
+      "alias": "Alias",
+      "rfc": "RFC",
+      "assigned_position": "Puesto asignado",
+      "save": "GUARDAR",
+      "yes": "SÍ",
+      "no": "NO"
     }
   }
 }
