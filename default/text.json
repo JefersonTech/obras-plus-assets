@@ -2,6 +2,45 @@
   "en-US": {
     "general": {
       "headerReturn": "Regresar"
+    },
+    "recover_password": {
+      "recover": "Recuperar",
+      "password": "contraseña",
+      "receives_instructions": "Introduce tu correo electrónico o tu nombre de usuario y recibe las instrucciones para recuperar tu contraseña",
+      "email": "Correo electrónico",
+      "back_to_login": "Regresar al inicio de sesión",
+      "enter_the_code": "Introduce el código que enviamos a tu correo electrónico para verificar tu identidad",
+      "hello": "Hola,",
+      "enter_new_password": "Introduce tu nueva contraseña",
+      "repeat_password": "Repite tu contraseña",
+      "accept": "Aceptar",
+      "successful_change": "¡cambio exitoso!",
+      "your_password_has_been_successful_change": "Tu cambio de contraseña se ha realizado de manera exitosa, ya puedes iniciar sesión sin problemas.",
+      "login": "iniciar sesión",
+      "field_required": "Este campo es requerido",
+      "all_fields_are_required": "Todos los campos son requeridos",
+      "password_validations": "La contraseña no es válida, debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
+      "passwords_must_be_the_same": "Las contraseñas deben ser iguales",
+      "email_sent": "Correo enviado",
+      "we_have_sent_a_message_to_the_email_address": "Hemos enviado un mensaje al correo electrónico: ",
+      "resend_code": "Reenviar código de verificación"
+    },
+    "login": {
+      "we_are": "Somos",
+      "workshop_of": "Taller de",
+      "construction": "Construcción",
+      "login": "Inicio de sesión",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "login_button": "INICIAR",
+      "login_problems": "¿Problemas para iniciar sesión?",
+      "enter_a_valid_email": "Introduce un correo electrónico válido",
+      "all_fields_are_required": "Todos los campos son requeridos",
+      "password_validations": "La contraseña no es válida, debe contener al menos 8 caracteres sin espacios (Caracteres especiales, números, letras mayúsculas y minúsculas)",
+      "blocked_account": "CUENTA BLOQUEADA",
+      "the_account_has_been_blocked": "La cuenta se ha bloqueado por motivos de seguridad, comuníquese con su administrador",
+      "accept": "aceptar",
+      "we_have_not_found": "No hemos encontrado ninguna cuenta asociada a estos datos"
     }
   }
 }

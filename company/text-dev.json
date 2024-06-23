@@ -52,7 +52,35 @@
       "list_created_successfully": "Lista creada con éxito",
       "create_list_button": "OK",
       "create_list_name_label": "Nombre de la lista",
-      "task_list_title": "{{-name}}\n<strong>Lista de Tareas<strong>"
+      "task_list_title": "{{-name}}\n<strong>Lista de Tareas<strong>",
+      "date": "Fecha",
+      "date_from_task": "Desde: {{-date}}",
+      "date_to_task": "Compromiso: {{-date}}",
+      "add_task_title": "AGREGAR <strong>TAREA</strong>",
+      "create_list_name_label_placeholder": "Indique el nombre de la lista",
+      "create_task_date_label": "Selección de Fecha de compromiso",
+      "create_task_date_placeholder": "Fecha de tarea",
+      "create_task_priority_label": "Prioridad",
+      "create_task_manager_label": "Responsable",
+      "create_task_tags_label": "Tipo/Etiquetas",
+      "create_task_date_label_button": "Fecha y hora de compromiso",
+      "create_task_task_name_label": "Nombre de la tarea",
+      "create_task_created_seccesfully": "Tarea creada con éxito",
+      "create_task_edited_successfully": "Tarea editada con éxito",
+      "create_task_add_button_create": "AGREGAR",
+      "create_task_add_button_update": "GUARDAR",
+      "create_task_input_manager_label": "Nombre del responsable",
+      "create_task_input_priority_label": "Seleccione prioridad",
+      "create_task_add_note": "Agregar notas",
+      "create_task_discard_note": "Descartar notas",
+      "create_task_input_note_label": "Descripción de la tarea",
+      "create_task_discard_confirmation": {
+        "title": "¿Seguro quieres descartar estos cambios?",
+        "text": "Esto no se puede deshacer.",
+        "confirm": "Sí, confirmar",
+        "cancel": "No, regresar"
+      },
+      "completed_task_message": "Tarea completada"
     },
     "progress": {
       "dayly_progress": "Avance diario",
@@ -91,6 +119,13 @@
       "save": "GUARDAR",
       "yes": "SÍ",
       "no": "NO"
+    },
+    "list_works": {
+      "construction_workshop": "Taller de construcción",
+      "list_works": "Listado de obras",
+      "there_are_no_registered_works": "No hay obras registradas",
+      "no_results": "No hay resultados que concidan con tu búsqueda",
+      "search_a_work": "Buscar una obra..."
     }
   }
 }
