@@ -43,20 +43,18 @@
       "headerReturn": "Regresar",
       "unknownError": "¡Oops! Algo salió mal",
       "errors": {
-        "theUserWasNotFound": " No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "theUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "theUserIsBlocked": "Usuario bloqueado, no se puede iniciar sesión. Contacta al administrador.",
-        "theUserIsSuspend": "Usuario suspendido, no se puede iniciar sesión. Contacta al administrador.",
-        "theNameWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "theIdWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "theEmailWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "theImeiIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "theImeiWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "thePasswordWasNotFound": "No hemos encontrado ninguna cuenta asociada a estos datos.",
-        "imeiNotAvailable": "El imei aún no está disponible para su reasignación",
-        "theImeiIsRequired": "Se requiere el imei",
-        "invalidCode": "El código ingresado no es válido. Por favor intente otra vez o solicite un código nuevo",
-        "notAvailableImei": "El imei aún no está disponible para su reasignación"
+        "C01USER01": "No se ha encontrado este usuario",
+        "C01USER02": "El usuario esta inactivo",
+        "C01USER03": "El usuario esta bloqueado",
+        "C01USER04": "El usuario esta suspendido",
+        "C01USER05": "La contraseña ha sido actualizada",
+        "C01USER06": "Compruebe que la contraseña coincide",
+        "C01USER07": "El usuario no puede ser activado, tiene un estado invalido",
+        "C01USER08": "El usuario ya esta activo",
+        "C01USER09": "El usuario no puede ser activado, tiene el perfil incompleto",
+        "C01USRP05": "Código de verificación incorrecto, por favor intente de nuevo",
+        "C01": "Contraseña incorrecta",
+        "C01USRP03": "No se pueden solicitar más códigos de acceso, póngase en contacto con un administrador"
       }
     }
   }
