@@ -41,6 +41,7 @@
     },
     "general": {
       "headerReturn": "Regresar",
+      "unknownError": "¡Oops! Algo salió mal",
       "errors": {
         "theUserWasNotFound": " No hemos encontrado ninguna cuenta asociada a estos datos.",
         "theUserIsInactive": "No hemos encontrado ninguna cuenta asociada a estos datos.",
