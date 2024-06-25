@@ -80,7 +80,12 @@
         "confirm": "Sí, confirmar",
         "cancel": "No, regresar"
       },
-      "completed_task_message": "Tarea completada"
+      "completed_task_message": "Tarea completada",
+      "lists_new_list": "Nueva lista",
+      "lists_reorder": "Reordenar",
+      "lists_reorder_screen_title": "REORDENAR LISTAS",
+      "lists_reorder_save_btn": "OK",
+      "lists_reorder_seccesfully": "Listas reordenadas exitosamente"
     },
     "progress": {
       "dayly_progress": "Avance diario",
