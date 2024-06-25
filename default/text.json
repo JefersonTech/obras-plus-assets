@@ -20,7 +20,7 @@
       "passwords_must_be_the_same": "Las contraseñas deben ser iguales",
       "email_sent": "Correo enviado",
       "we_have_sent_a_message_to_the_email_address": "Hemos enviado un mensaje al correo electrónico: ",
-      "resend_code": "Reenviar código de verificación"
+      "resend_code": "Reenviar código"
     },
     "login": {
       "we_are": "Somos",
