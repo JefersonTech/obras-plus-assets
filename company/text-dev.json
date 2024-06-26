@@ -38,7 +38,8 @@
         "video": "Video"
       },
       "notTextInInput": "Este campo no debe empezar ni terminar con espacios en blanco",
-      "invalidEmailFormat": "Formato de correo electrónico no válido"
+      "invalidEmailFormat": "Formato de correo electrónico no válido",
+      "data_not_found": "No hay registros para este dia"
     },
     "work_detail": {
       "pending_worker_profiles": "PERFILES DE TRABAJADORES PENDIENTES ({{count}}/{{total}}) - {{percentage}}%",
