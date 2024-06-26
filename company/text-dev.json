@@ -112,7 +112,11 @@
       "total_attendance": "ASISTENCIA TOTAL",
       "confirm": "CONFIRMAR",
       "enter_worker_name": "Escriba el nombre del trabajador",
-      "accept": "Aceptar"
+      "accept": "Aceptar",
+      "incomplete_worker": "Trabajador incompleto",
+      "incomplete_workers": "Trabajadores incompletos",
+      "The_worker_you_have_selected": "El trabajador que ha seleccionado tiene el perfil incompleto desde hace más de una semana",
+      "there_are_one_or_more_workers": "Hay uno o más trabajadores con el perfil incompleto desde hace más de una semana"
     },
     "progress": {
       "dayly_progress": "Avance diario",
