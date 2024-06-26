@@ -158,7 +158,7 @@
       "there_are_no_registered_works": "No hay obras registradas",
       "no_results": "No hay resultados que concidan con tu búsqueda",
       "search_a_work": "Buscar una obra...",
-      "from": "Desde {{dateStart}} - {{dateEnd}}"
+      "from": "Desde {{-dateStart}} - {{-dateEnd}}"
     }
   }
 }
