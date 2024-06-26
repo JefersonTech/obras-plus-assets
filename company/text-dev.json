@@ -41,9 +41,10 @@
       "invalidEmailFormat": "Formato de correo electrónico no válido"
     },
     "work_detail": {
-      "dayly_progress": "Avance diario",
-      "attendance_list": "Lista de asistencia",
-      "pending_tasks": "Tareas pendientes",
+      "pending_worker_profiles": "PERFILES DE TRABAJADORES PENDIENTES ({{count}}/{{total}}) - {{percentage}}%",
+      "dayly_progress": "AVANCE DIARIO",
+      "attendance_list": "LISTA DE ASISTENCIA",
+      "pending_tasks": "TAREAS PENDIENTES",
       "pending_tasks_screen_title": "TAREAS Y PENDIENTES\n<strong>{{-date}}</strong>",
       "today_tasks": "Tareas pendientes para hoy",
       "completed_tasks": "Tareas completadas",
@@ -86,6 +87,31 @@
       "lists_reorder_screen_title": "REORDENAR LISTAS",
       "lists_reorder_save_btn": "OK",
       "lists_reorder_seccesfully": "Listas reordenadas exitosamente"
+    },
+    "attendance_list": {
+      "copy_all_workers": "Copiar todo - {{count}} Trabajadores",
+      "copy_attendance_previous_day": "Copiar asistencia - Día anterior",
+      "copy_attendance_last_week": "Copiar asistencia - Semana pasada",
+      "copy_attendance_15_days_ago": "Copiar asistencia - Hace 15 días",
+      "copy_attendance_select_day": "Copiar asistencia - Seleccionar día",
+      "configure_attendance_list": "Configurar lista de asistencia",
+      "There_is_no_attendance_list_day": "No hay una lista de asistencia configurada para este día",
+      "There_is_no_attendance_list_week": "No hay una lista de asistencia configurada para esta semana",
+      "assign_worker_position": "ASIGNAR PUESTO AL TRABAJADOR",
+      "copy_attendance_list": "COPIAR LISTA DE ASISTENCIA",
+      "search_worker": "BUSCAR TRABAJADOR",
+      "search_worker_suspensory_points": "Buscar un trabajador...",
+      "mark_all": "MARCAR TODO",
+      "unmark_all": "DESMARCAR TODO",
+      "profile": "PERFIL",
+      "position": "PUESTO",
+      "worker_name": "NOMBRE DEL TRABAJADOR",
+      "not_configured_workers": "NO HA CONFIGURADO TRABAJADORES",
+      "no_results_found": "No hay resultados que coincidan con tu búsqueda",
+      "total_attendance": "ASISTENCIA TOTAL",
+      "confirm": "CONFIRMAR",
+      "enter_worker_name": "Escriba el nombre del trabajador",
+      "accept": "Aceptar"
     },
     "progress": {
       "dayly_progress": "Avance diario",
@@ -130,7 +156,8 @@
       "list_works": "Listado de obras",
       "there_are_no_registered_works": "No hay obras registradas",
       "no_results": "No hay resultados que concidan con tu búsqueda",
-      "search_a_work": "Buscar una obra..."
+      "search_a_work": "Buscar una obra...",
+      "from": "Desde {{dateStart}} - {{dateEnd}}"
     }
   }
 }
