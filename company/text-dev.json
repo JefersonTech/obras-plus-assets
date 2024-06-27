@@ -39,7 +39,17 @@
       },
       "notTextInInput": "Este campo no debe empezar ni terminar con espacios en blanco",
       "invalidEmailFormat": "Formato de correo electrónico no válido",
-      "data_not_found": "No hay registros para este dia"
+      "data_not_found": "No hay registros para este dia",
+      "type_of_arrangement": {
+        "asc": "asc",
+        "desc": "desc"
+      },
+      "task_status": {
+        "pending": "Pendientes",
+        "finished": "Finalizadas"
+      },
+      "all": "Todos",
+      "all_female": "Todas"
     },
     "work_detail": {
       "pending_worker_profiles": "PERFILES DE TRABAJADORES PENDIENTES ({{count}}/{{total}}) - {{percentage}}%",
@@ -87,7 +97,25 @@
       "lists_reorder": "Reordenar",
       "lists_reorder_screen_title": "REORDENAR LISTAS",
       "lists_reorder_save_btn": "OK",
-      "lists_reorder_seccesfully": "Listas reordenadas exitosamente"
+      "lists_reorder_seccesfully": "Listas reordenadas exitosamente",
+      "lists_edit_list": "Editar lista",
+      "tasks_reorder_by": "Reordenar tareas por",
+      "tasks_reorder_type": "Tipo de ordenamiento",
+      "tasks_reorder_alphabetical_by_task": "Alfabético por tarea",
+      "tasks_reorder_alphabetical_by_tags": "Alfabético por etiquetas",
+      "tasks_reorder_alphabetical_by_priority": "Prioridad",
+      "tasks_reorder_alphabetical_by_commitment_date": "Fecha de compromiso",
+      "tasks_reorder_alphabetical_by_date_of_creation": "Fecha de creación",
+      "tasks_reorder_alphabetical_by_task_status": "Estado de tareas",
+      "tasks_reorder_apply": "aplicar",
+      "tasks_filter_filter_and_search": "Filtrar y buscar",
+      "tasks_filter_clear_filter": "Limpiar filtros",
+      "tasks_filter_task_status": "Estado de tareas",
+      "tasks_filter_tags": "Etiquetas",
+      "tasks_filter_priority": "Prioridad",
+      "tasks_filter_creation_date": "Fecha de creación",
+      "tasks_filter_commitment_date": "Fecha de compromiso",
+      "tasks_filter_search": "buscar"
     },
     "attendance_list": {
       "copy_all_workers": "Copiar todo - {{count}} Trabajadores",
