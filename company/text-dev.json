@@ -114,7 +114,9 @@
       "tasks_filter_priority": "Prioridad",
       "tasks_filter_creation_date": "Fecha de creación",
       "tasks_filter_commitment_date": "Fecha de compromiso",
-      "tasks_filter_search": "buscar"
+      "tasks_filter_search": "buscar",
+      "list_edited_successfully": "Lista editada con éxito",
+      "task_data_not_found": "No hay tareas"
     },
     "progress": {
       "dayly_progress": "Avance diario",
