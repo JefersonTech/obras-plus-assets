@@ -193,6 +193,11 @@
       "no_results": "No hay resultados que concidan con tu búsqueda",
       "search_a_work": "Buscar una obra...",
       "from": "Desde {{-dateStart}} - {{-dateEnd}}"
+    },
+    "tabs": {
+      "staff": "Personal",
+      "works": "Obras",
+      "pending": "Pendientes"
     }
   }
 }
