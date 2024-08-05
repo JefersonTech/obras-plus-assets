@@ -50,7 +50,10 @@
         "finished": "Finalizadas"
       },
       "all": "Todos",
-      "all_female": "Todas"
+      "all_female": "Todas",
+      "requiredField": "{{field}} es requerido",
+      "requiredField_male": "{{field}} es requerido",
+      "requiredField_female": "{{field}} es requerida"
     },
     "work_detail": {
       "pending_worker_profiles": "PERFILES DE TRABAJADORES PENDIENTES ({{count}}/{{total}}) - {{percentage}}%",
@@ -118,7 +121,14 @@
       "tasks_filter_commitment_date": "Fecha de compromiso",
       "tasks_filter_search": "buscar",
       "list_edited_successfully": "Lista editada con éxito",
-      "task_data_not_found": "No hay tareas"
+      "task_data_not_found": "No hay tareas",
+      "user_tasks": "Pendientes",
+      "use_as_template": "Guardar esta lista como una plantilla",
+      "create_list_segmented_as_new": "Nueva lista",
+      "create_list_segmented_from_template": "Usar plantilla",
+      "create_list_template": "plantilla",
+      "select_obra_for_list": "Seleccionar obra",
+      "create_list_project": "Obra"
     },
     "attendance_list": {
       "copy_all_workers": "Copiar todo - {{count}} Trabajadores",
