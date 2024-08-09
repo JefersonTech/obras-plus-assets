@@ -182,7 +182,8 @@
       "finished_seccesfully": "Avance finalizado con éxito"
     },
     "complete_employee_profiles": {
-      "pending_employee_profiles": "PERFILES DE TRABAJADORES\n<strong>PENDIENTES</strong>"
+      "pending_employee_profiles": "PERFILES DE TRABAJADORES\n<strong>PENDIENTES</strong>",
+      "profile_successfully_completed": "Perfil completado con éxito"
     },
     "complete_profile_worker": {
       "employee_detail": "DETALLE DEL TRABAJADOR",
